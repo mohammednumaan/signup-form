@@ -38,6 +38,13 @@ body{
 
 }
 
+.credit-container{
+    margin-left: 40px;
+    margin-top: -50PX;
+    margin-bottom: 0px;
+    color: white;
+}
+
 
 
 /* first name and last name */
@@ -167,6 +174,7 @@ body{
 
 .log-in{
     font-family: sans-serif;
+    margin: 0;
 }
 
 a{
